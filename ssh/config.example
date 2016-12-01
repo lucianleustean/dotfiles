@@ -1,0 +1,7 @@
+#
+## Example of host config
+#
+Host <host_name>
+  Hostname <host_ip>
+  User <username>
+  IdentityFile <path_to_pem_file>

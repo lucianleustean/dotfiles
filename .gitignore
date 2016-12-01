@@ -1,0 +1,6 @@
+# Ignore ssh keys
+ssh/config
+ssh/id_rsa
+ssh/id_rsa.pub
+ssh/known_hosts
+
