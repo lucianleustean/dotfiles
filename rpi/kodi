@@ -1,0 +1,5 @@
+sudo ln -s /media/U/movies/ /movies
+sudo ln -s /media/U/tv_shows/ /tv
+ln -s /media/U/movies/ ~/movies
+ln -s /media/U/tv_shows/ ~/tv
+
